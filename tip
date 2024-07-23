@@ -1,0 +1,11 @@
+I don't know how to use this!
+
+but i know that...
+
+import random
+
+num = random.randint(0, 100000)
+if num % 2 == 0:
+  print("Pair")
+else:
+  print("Odd")
